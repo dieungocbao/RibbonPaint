@@ -1,0 +1,43 @@
+// ******************************************************************************
+// * This is an automatically generated file containing the ribbon resource for *
+// * your application.                                                          *
+// ******************************************************************************
+
+#include ".\RibbonIDs.h"
+
+STRINGTABLE 
+BEGIN
+    ID_DRAW_LINE_LabelTitle_RESID L"Line" /* LabelTitle ID_DRAW_LINE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_DRAW_RECTANGLE_LabelTitle_RESID L"Rectangle" /* LabelTitle ID_DRAW_RECTANGLE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_DRAW_ELLIPSE_LabelTitle_RESID L"Ellipse" /* LabelTitle ID_DRAW_ELLIPSE_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdTabHome_LabelTitle_RESID L"Home" /* LabelTitle cmdTabHome_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    cmdGroupShape_LabelTitle_RESID L"Shape" /* LabelTitle cmdGroupShape_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    ID_EXIT_LabelTitle_RESID L"Exit" /* LabelTitle ID_EXIT_LabelTitle_RESID: (null) */
+END
+
+STRINGTABLE 
+BEGIN
+    InternalCmd2_LabelTitle_RESID L"Label:InternalCmd2" /* LabelTitle InternalCmd2_LabelTitle_RESID: (null) */
+END
+
+APPLICATION_RIBBON    UIFILE    "C:\\Users\\dieungocbao\\source\\repos\\RibbonPaint\\RibbonPaint\\\\Ribbon.bml"
